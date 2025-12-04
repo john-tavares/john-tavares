@@ -1,13 +1,28 @@
 ## Olá! Eu sou Jonathan Tavares
- <div>
-  <a href="https://github.com/john-tavares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=john-tavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-<br>
- <div>
-   <a href="https://www.linkedin.com/in/jonathantavaress/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Blite" src="https://media.licdn.com/dms/image/v2/D4D0BAQGOddIvi-4Jnw/company-logo_200_200/B4DZh2VSJNGsAM-/0/1754331948039/bliteti_logo?e=2147483647&v=beta&t=QGYsN-7ZDrnBlPIrktrgd3yJkkAVTF_iCjthxfFzyGc"/>](https://www.bliteti.com.br/)
+
+**Senior Chatbot & AI Developer** \
+[**Blite**](https://www.bliteti.com.br/) • Full-time \  
+Linguagens & Tecnologias: `Python`, `Langchain`, `Flask`, `Blip`,\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Lanum" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNQOoU2CQ62CG6OvoYLJfsr6MdI97lxuQ6g&s"/>](https://lanum.com.br/)
+
+**AI Engineer & Business Discovery** \
+[**Lanum**](https://lanum.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Langchain`, `Flask`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Lanum" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNQOoU2CQ62CG6OvoYLJfsr6MdI97lxuQ6g&s"/>](https://lanum.com.br/) 
+
+**Chatbot Tech Lead** \
+[**Lanum**](https://lanum.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Flask`\
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
