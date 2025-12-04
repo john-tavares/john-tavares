@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Blite" src="https://media.licdn.com/dms/image/v2/D4D0BAQGOddIvi-4Jnw/company-logo_200_200/B4DZh2VSJNGsAM-/0/1754331948039/bliteti_logo?e=2147483647&v=beta&t=QGYsN-7ZDrnBlPIrktrgd3yJkkAVTF_iCjthxfFzyGc"/>](https://www.bliteti.com.br/)
 
 **Senior Chatbot & AI Developer** \
-[**Blite**](https://www.bliteti.com.br/) • Full-time \  
+[**Blite**](https://www.bliteti.com.br/) • Full-time  
 Linguagens & Tecnologias: `Python`, `Langchain`, `Flask`, `Blip`,\
 <br/>
 
