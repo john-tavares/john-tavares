@@ -3,16 +3,23 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="BAMAQ" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU6elwciHHgt8_vS6p4elVgWyzZBmvLr2kqQ&s"/>](https://bamaqdigital.com.br/)
+
+**AI Tech Lead** \
+[**BAMAQ**](https://bamaqdigital.com.br/) • Full-time  
+Linguagens & Tecnologias: `Python`, `Langchain`, `FastAPI`,\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Blite" src="https://media.licdn.com/dms/image/v2/D4D0BAQGOddIvi-4Jnw/company-logo_200_200/B4DZh2VSJNGsAM-/0/1754331948039/bliteti_logo?e=2147483647&v=beta&t=QGYsN-7ZDrnBlPIrktrgd3yJkkAVTF_iCjthxfFzyGc"/>](https://www.bliteti.com.br/)
 
-**Senior Chatbot & AI Developer** \
+**Senior AI Developer** \
 [**Blite**](https://www.bliteti.com.br/) • Full-time  
 Linguagens & Tecnologias: `Python`, `Langchain`, `Flask`, `Blip`,\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Lanum" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNQOoU2CQ62CG6OvoYLJfsr6MdI97lxuQ6g&s"/>](https://lanum.com.br/)
 
-**AI Engineer & Business Discovery** \
+**Senior AI Engineer** \
 [**Lanum**](https://lanum.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Langchain`, `Flask`\
 <br/>
